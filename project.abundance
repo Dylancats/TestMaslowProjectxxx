@@ -1,15 +1,41 @@
 {
-    "atomType": "Molecule",
-    "name": "TestMaslowProjectxxx",
-    "x": 0,
-    "y": 0,
-    "uniqueID": "27ad00bf-e0d2-4abe-b512-7ff41e1362bd",
-    "ioValues": [],
-    "topLevel": true,
-    "allAtoms": [],
-    "allConnectors": [],
-    "unitsKey": "MM",
-    "fileTypeVersion": 1,
-    "compiledBom": {},
-    "filetypeVersion": 1
+  "atomType": "Molecule",
+  "name": "TestMaslowProjectxxx",
+  "x": 0,
+  "y": 0,
+  "uniqueID": "27ad00bf-e0d2-4abe-b512-7ff41e1362bd",
+  "ioValues": [],
+  "topLevel": true,
+  "allAtoms": [
+    {
+      "atomType": "Output",
+      "name": "Output",
+      "x": 0.98,
+      "y": 0.5,
+      "uniqueID": "a8d868e2-a5a7-48bd-bf4b-2c10ef524e29",
+      "ioValues": []
+    },
+    {
+      "atomType": "Rectangle",
+      "name": "Rectangle",
+      "x": 0.22319649262654445,
+      "y": 0.41496598639455784,
+      "uniqueID": "e519c48d-0432-4af1-8a7e-6eea4edac4eb",
+      "ioValues": [
+        {
+          "name": "x length",
+          "ioValue": 10
+        },
+        {
+          "name": "y length",
+          "ioValue": 10
+        }
+      ]
+    }
+  ],
+  "allConnectors": [],
+  "unitsKey": "MM",
+  "fileTypeVersion": 1,
+  "compiledBom": {},
+  "filetypeVersion": 1
 }
