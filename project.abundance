@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "TestMaslowProjectxxx",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "27ad00bf-e0d2-4abe-b512-7ff41e1362bd",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
